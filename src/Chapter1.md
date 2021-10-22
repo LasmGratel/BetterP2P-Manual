@@ -1,4 +1,4 @@
-# Better Memory Card
+# Advanced Memory Card
 
 ![](https://cf.way2muchnoise.eu/versions/538092.svg)
 
